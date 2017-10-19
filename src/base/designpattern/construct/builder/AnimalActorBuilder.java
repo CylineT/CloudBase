@@ -26,8 +26,6 @@ public class AnimalActorBuilder extends ActorBuilder{
 	@Override
 	public void buildCostume() {
 		actor.setCostume("ÎÞ×°");
-	}
-	
-	
+	}	
 
 }
